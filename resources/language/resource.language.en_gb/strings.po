@@ -1,7 +1,7 @@
 # plugin.video.jiotv language file
 # Addon Name: JioTV
 # Addon id: plugin.video.jiotv
-# Addon Provider: tobalan
+# Addon Provider: denver
 msgid ""
 msgstr ""
 "Project-Id-Version: 2.3.9\n"
