@@ -91,11 +91,11 @@
         <disclaimer>This plugin is not officially commissioned/supported by Jio. The trademark "Jio"
             is registered by "Reliance Corporate IT Park Limited (RCITPL)"</disclaimer>
         <assets>
-            <icon>resources/icon.png</icon>
-            <fanart>resources/icon.png</fanart>
-            <screenshot>resources/icon.png</screenshot>
-            <screenshot>resources/icon.png</screenshot>
-            <screenshot>resources/icon.png</screenshot>
+            <icon>https://raw.githubusercontent.com/Denverishere/Denver/main/resources</icon>
+            <fanart>https://raw.githubusercontent.com/Denverishere/Denver/main/resources/fanart.jpg</fanart>
+            <screenshot>https://raw.githubusercontent.com/Denverishere/Denver/main/resources</screenshot>
+            <screenshot>https://raw.githubusercontent.com/Denverishere/Denver/main/resources</screenshot>
+            <screenshot>https://raw.githubusercontent.com/Denverishere/Denver/main/resources</screenshot>
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
