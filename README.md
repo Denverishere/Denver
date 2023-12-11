@@ -16,4 +16,4 @@ This plugin is not officially commissioned/supported by Jio. The trademark "Jio"
 
 ## Download
 
-[**Download**](https://github.com/krreet/plugin.video.jiotv/releases/latest) the `.zip` file.
+[**Download**](https://github.com/Denverishere/Denver/releases/latest) the `.zip` file.
